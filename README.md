@@ -1,2 +1,2 @@
-# ai_course
+# ai_course_instant
 assignment
